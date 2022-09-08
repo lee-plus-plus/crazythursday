@@ -1,6 +1,6 @@
-# crazythursday: Your Python Refuses to work on Crazy Thursday
+# crazythursday: your python REFUSE to work on Crazy Thursday
 
-CrazyThursday is a library that allows you to go to KFC in time on Crazy Thursday by raising `CrazyThursdayException` in runtime. 
+crazythursday is a library that allows you to go to KFC in time on Crazy Thursday by raising `CrazyThursdayException`. 
 
 ## Usage
 
