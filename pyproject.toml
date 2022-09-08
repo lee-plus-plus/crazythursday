@@ -10,7 +10,7 @@ authors = [
 ]
 description = "KFC Crazy Thursday"
 readme = "README.md"
-license = { file="LICENSE" }
+license = { "GNU GPLv3" }
 requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
